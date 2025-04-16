@@ -1,4 +1,4 @@
-body {
+body{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
@@ -42,4 +42,96 @@ color: #2E2F42 ;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42 ;
+
 }
+.section-one-name {
+    font-family: "Roboto",sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.button-name {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4;
+    cursor: pointer;
+    border: none;
+    color: #ffffff;
+    background-color: #4D5AE5;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    }
+    .section-two-title {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    align-items: center;
+    color: #2E2F42;
+    }
+   .section-two-text {
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+   }
+   .section-three-name {
+    font-family: "Roboto",sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    
+   }
+   .section-three-title {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    align-items: center;
+    color: #2E2F42;
+   }
+  .section-three-text {
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    align-items: center;
+    color: #434455;
+  } 
+ .section-four-title {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+ } 
+ .section-four-text {
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
+ .footer-text {
+  font-family: "Roboto",sans-serif;
+  font-weight: 400; 
+  font-size: 16px; 
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #E7E9FC ;
+ }
