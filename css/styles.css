@@ -34,19 +34,26 @@ body{
     color: #2E2F42;
 
 }
+.nav-item:hover {
+color: #404bbf;
+}
+.nav-item:focus {
+    color: #404bbf;
+}
 .nav-link {
     font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #2E2F42 ;
+    color: #434455;
     
 }
 .address {
 font-style: normal;
 color: #434455;
 }
+
 .contacts-link:hover {
   color: #404bbf;
 
@@ -60,11 +67,14 @@ color: #434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #2E2F42 ;
+    color: #434455;
 
 }
 .section-one {
     background-color: #2e2f42 ;
+    width: 1440px;
+    height: 600px;
+    top: 72px;
 }
 .section-one-name {
     font-family: "Roboto",sans-serif;
@@ -74,6 +84,8 @@ color: #434455;
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
+   
+
 }
 .button-name {
     font-family: "Roboto",sans-serif;
@@ -85,20 +97,19 @@ color: #434455;
     border: none;
     color: #ffffff;
     background-color: #4D5AE5;
-    padding-top: 16px;
-    padding-right: 32px;
-    padding-bottom: 16px;
-    padding-left: 32px;
-    letter-spacing: 0.04em;
+   
     align-items: center;
-    
-    }
+
+ }
    .button-name:hover {
         background-color: #404BBF;
     }
     .button-name:focus {
     background-color: #404BBF;
     }
+   .section-two-list {
+    background-color: #FFFFFF;
+   }
 
 
     .section-two-title {
@@ -116,11 +127,12 @@ color: #434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
    }
    .section-three {
     background-color: #F4F4FD;
    }
+ 
    .section-three-list {
     background-color: #FFFFFF;
    }
