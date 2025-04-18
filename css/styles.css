@@ -31,13 +31,13 @@ body{
     line-height: 21px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color: #2e2f42;
 
 }
-.nav-item:hover {
+.nav-link:hover {
 color: #404bbf;
 }
-.nav-item:focus {
+.nav-link:focus {
     color: #404bbf;
 }
 .nav-link {
@@ -70,6 +70,7 @@ color: #434455;
     color: #434455;
 
 }
+
 .section-one {
     background-color: #2e2f42 ;
     width: 1440px;
@@ -92,12 +93,11 @@ color: #434455;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.4;
+    letter-spacing: 0.4em;
     cursor: pointer;
     border: none;
     color: #ffffff;
     background-color: #4D5AE5;
-   
     align-items: center;
 
  }
@@ -130,7 +130,7 @@ color: #434455;
     color: #434455;
    }
    .section-three {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
    }
  
    .section-three-list {
