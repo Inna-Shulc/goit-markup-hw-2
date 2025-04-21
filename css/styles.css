@@ -130,6 +130,9 @@ color: #434455;
    .section-three {
     background-color: #F4F4FD;
    }
+   .section-three-item {
+    background-color: #ffffff;
+   }
  
    .section-three-name {
     font-family: "Roboto",sans-serif;
