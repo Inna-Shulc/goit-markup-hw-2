@@ -98,7 +98,7 @@ color: #434455;
     border: none;
     color: #ffffff;
     background-color: #4D5AE5;
-    align-items: center;
+    
 
  }
    .button-name:hover {
@@ -118,7 +118,7 @@ color: #434455;
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    align-items: center;
+    
     color: #2E2F42;
     }
    .section-two-text {
@@ -153,7 +153,7 @@ color: #434455;
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    align-items: center;
+   
     color: #2E2F42;
    }
   .section-three-text {
@@ -162,7 +162,7 @@ color: #434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    align-items: center;
+    
     color: #434455;
   } 
   .section-four-name {
