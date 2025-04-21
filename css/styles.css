@@ -46,12 +46,15 @@ color: #404bbf;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
     
 }
 .address {
 font-style: normal;
 color: #434455;
+}
+.contacts-link {
+  color: #434455;
 }
 
 .contacts-link:hover {
@@ -73,9 +76,7 @@ color: #434455;
 
 .section-one {
     background-color: #2e2f42 ;
-    width: 1440px;
-    height: 600px;
-    top: 72px;
+   
 }
 .section-one-name {
     font-family: "Roboto",sans-serif;
@@ -92,12 +93,13 @@ color: #434455;
     font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.4em;
-    cursor: pointer;
+   line-height: 1.5;
+     cursor: pointer;
     border: none;
     color: #ffffff;
     background-color: #4D5AE5;
+    letter-spacing: 0.4em;
+
     
 
  }
@@ -130,7 +132,7 @@ color: #434455;
     color: #434455;
    }
    .section-three {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
    }
  
    .section-three-list {
@@ -162,7 +164,7 @@ color: #434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    
+    background-color: #FFFFFF;
     color: #434455;
   } 
   .section-four-name {
